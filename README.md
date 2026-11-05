@@ -32,3 +32,10 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 
 ## Declaración de uso de IA
 Usé Claude (IA generativa) para redactar de mejor manera los campos del README enfocados en posicionamiento digital de Kaory
+
+## Supuestos y limitaciones
+- Supuesto: las interacciones visibles en los perfiles públicos (reacciones, comentarios y compartidos) reflejan el interés real del público de Loja.
+- Supuesto: los seguidores de las tiendas competidoras son, en su mayoría, personas de Loja que podrían comprar en Kaory.
+- Limitación: solo se observan Instagram y Facebook de cuatro tiendas de calzado y moda; no se ven TikTok, WhatsApp ni si las interacciones se convierten en ventas.
+
+**Por qué importa:** con estos datos, el jefe de marketing digital de Kaory decidirá qué publicar, con qué frecuencia y en qué red invertir en publicidad para posicionarse en Loja.
