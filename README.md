@@ -32,3 +32,10 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 
 ## Declaración de uso de IA
 Usé Claude (IA generativa) para redactar de mejor manera los campos del README enfocados en posicionamiento digital de Kaory
+
+## Supuestos y limitaciones
+- Supuesto 1: las interacciones visibles en los perfiles públicos (reacciones, comentarios y compartidos) son una aproximación al interés del público de Loja, no una medida exacta de intención de compra. Se contrastará cada mes con las estadísticas de Meta Business Suite de Kaory (alcance, visitas al perfil y mensajes recibidos). Si el engagement sube pero los mensajes no, no se aumentará la inversión en esa red.
+- Supuesto 2: los seguidores de las tiendas competidoras son, en su mayoría, personas de Loja que podrían comprar en Kaory. Como algunos pueden ser de otras ciudades, se revisará la ubicación de la audiencia en las estadísticas propias de Kaory y se segmentará la publicidad pagada solo a Loja.
+- Limitación: solo se observan Instagram y Facebook de cuatro tiendas de calzado y moda del centro de Loja, por lo que los resultados no representan todo el mercado (centros comerciales, tiendas de barrio o ventas por catálogo). Tampoco se ven TikTok, WhatsApp ni si las interacciones se convierten en ventas. Por eso, los resultados se usarán para comparar tendencias semana a semana y no como medida del tamaño del mercado.
+
+**Por qué importa:** el/la jefe(a) de marketing digital de Kaory decidirá qué publicar, con qué frecuencia y en qué red invertir en publicidad para posicionarse en Loja. Conocer estos supuestos le permite saber hasta dónde confiar en los datos y evitar invertir en una red solo porque tiene muchas reacciones.
